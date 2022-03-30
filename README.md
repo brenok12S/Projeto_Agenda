@@ -1,2 +1,9 @@
 # Projeto_Agenda
-Projeto em andamento...
+## Projeto em Andamento...
+
+## Ferramentas Utlizadas
+Node
+Express
+JavaScript
+Bootstrap
+MongoDB
